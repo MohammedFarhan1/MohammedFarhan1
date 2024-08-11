@@ -5,7 +5,7 @@ Web Developer Intern  @ Intership Studio
 - 🔭 Here's my [**Portfolio**](https://mohammedfarhan1.github.io/My-Portfolio-Website/)                                                   
 - 🌱  I’m currently learning **ReactJs**
 - 💬 Ask me about Tech
-- 📫 How to reach me **fm3029099@gmail.com**
+- 📫 How to reach me **mohammed.farhan.dev@gmail.com**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammedFarhan1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
