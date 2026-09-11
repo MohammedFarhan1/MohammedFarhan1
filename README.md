@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="0" height="0" />
-
 # Hi there, I'm Mohammed <span style="color:#3b82f6">Farhan</span> 👋
 
-### SOFTWARE ENGINEER &nbsp;•&nbsp; FULL STACK DEVELOPER
+**SOFTWARE ENGINEER &nbsp;•&nbsp; FULL STACK DEVELOPER**
 
 I build modern web and mobile applications that solve real-world problems.<br/>
 I enjoy working with AI, scalable backend systems, and clean user experiences.
@@ -20,11 +18,11 @@ I enjoy working with AI, scalable backend systems, and clean user experiences.
 
 <br/>
 
-<table align="center">
+<table width="100%">
 <tr>
-<td valign="top" width="60%">
+<td width="58%" valign="top">
 
-### 🚀 What I'm Working On
+#### 🚀 What I'm Working On
 
 - 🔭 Building full-stack web applications
 - 🌱 Exploring modern React and TypeScript development
@@ -33,28 +31,26 @@ I enjoy working with AI, scalable backend systems, and clean user experiences.
 - 💡 Turning ideas into practical products
 
 </td>
-<td valign="top" width="40%">
-
-<div align="center">
+<td width="42%" valign="top" align="center">
 
 *"Better Ideas.<br/>Brighter Solutions."*
 
 <br/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React"/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="36" height="36" alt="Django"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL"/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="Figma"/>
-
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32"/>
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" height="32"/>
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32" height="32"/>
 
 </td>
 </tr>
@@ -62,10 +58,10 @@ I enjoy working with AI, scalable backend systems, and clean user experiences.
 
 <br/>
 
-### 🌐 Featured Projects
+#### 🌐 Featured Projects
 
 | Project | Description |
-|---|---|
+|:---|:---|
 | **[Learnix](https://github.com/farhanthinks)** | AI-powered study planning system for college students with syllabus processing and quizzes |
 | **[Trusta – Brand Portal](https://github.com/farhanthinks)** | Multi-tenant brand portal for product verification, built with Next.js and Supabase |
 | **[KeepCloud](https://github.com/farhanthinks)** | A secure personal credential manager app built with Flutter and Supabase |
@@ -75,29 +71,21 @@ I enjoy working with AI, scalable backend systems, and clean user experiences.
 
 <div align="center">
 
-### 📊 GitHub Stats
+#### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=farhanthinks&show_icons=true&hide_border=true&theme=transparent" height="170" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanthinks&layout=compact&hide_border=true&theme=transparent" height="170" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=farhanthinks&show_icons=true&hide_border=true&theme=transparent" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanthinks&layout=compact&hide_border=true&theme=transparent" height="165"/>
 
-<br/><br/>
+<br/>
 
-### 🤝 Connect With Me
+#### 🤝 Connect With Me
 
-<a href="https://linkedin.com/in/mohammed-farhan-85746326b">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:mohammed.farhan.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://farhanweb.site">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="https://instagram.com/farhanwithsabr">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<a href="https://linkedin.com/in/mohammed-farhan-85746326b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mohammed.farhan.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://farhanweb.site"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://instagram.com/farhanwithsabr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-<br/><br/>
+<br/>
 
 <i>Think. Build. Improve.</i>
 
