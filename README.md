@@ -1,24 +1,110 @@
-## Hi there 👋 It's me Mohammed Farhan
+# Hey, I'm Mohammed Farhan 👋
 
-Web Developer Intern  @ Intership Studio
-<img align="right" width="370" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHFjMHBsczNqcDF0N3E3cnMxdDJoc3gxcDkxZ3Q0ejQ1NXk4NG9mMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-- 🔭 Here's my [**Portfolio**](https://mohammedfarhan1.github.io/My-Portfolio-Website/)                                                   
-- 🌱  I’m currently learning **ReactJs**
-- 💬 Ask me about Tech
-- 📫 How to reach me **mohammed.farhan.dev@gmail.com**
+### Software Developer · Full Stack Developer
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammedFarhan1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-  
-<br />
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/mohammed-farhan-85746326b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-farhan-85746326b" height="30" width="40" /></a> <a href="https://fb.com/ftp.fran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ftp.fran" height="30" width="40" /></a> <a href="https://instagram.com/farhanwithsabr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farhanwithsabr_" height="30" width="40" /></a>
-<a href="https://twitter.com/mohamma45476883" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamma45476883" height="30" width="40" /></a>
+I build clean, scalable, and user-focused digital products.
 
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="50" alt="typescript logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" width="50" alt="r logo"  />
+I enjoy turning ideas into real applications, solving practical problems,
+and continuously learning better ways to build software.
 
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" />
+---
+
+### 🚀 What I'm Working On
+
+- 🔭 Building full-stack web applications
+- 🌱 Exploring modern React and TypeScript development
+- 🧠 Learning more about AI-powered applications
+- 🛠️ Improving backend architecture and REST APIs
+- 💡 Turning ideas into practical products
+
+---
+
+### 🧰 Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" />
+</p>
+
+**Backend & Database**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="42" height="42" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" />
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" height="42" alt="Figma" />
+</p>
+
+---
+
+### 🌐 Featured Projects
+
+| Project | Description |
+| --- | --- |
+| **Learnix** | AI-powered study planning and learning platform |
+| **Trusta** | Brand portal for product verification |
+| **KeepCloud** | Personal credential management application |
+| **Framio** | E-commerce platform for personalized gifting |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=farhanthinks&show_icons=true&hide_border=true&theme=transparent"
+    height="170"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanthinks&layout=compact&hide_border=true&theme=transparent"
+    height="170"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/mohammed-farhan-85746326b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mohammed.farhan.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://farhanweb.site">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/farhanwithsabr">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Think. Build. Improve.</i>
+</p>
