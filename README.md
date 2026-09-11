@@ -78,6 +78,16 @@ I enjoy working with AI, scalable backend systems, and clean user experiences.
 
 <br/>
 
+#### 🔥 Activity
+
+<img src="https://streak-stats.demolab.com?user=farhanthinks&hide_border=true&background=transparent&ring=3b82f6&fire=ea580c" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanthinks&theme=react-dark&hide_border=true&bg_color=transparent" width="90%"/>
+
+<br/>
+
 #### 🤝 Connect With Me
 
 <a href="https://linkedin.com/in/mohammed-farhan-85746326b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
