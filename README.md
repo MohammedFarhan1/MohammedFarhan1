@@ -2,7 +2,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="0" height="0" />
 
-# Hi there, I'm Mohammed Farhan 👋
+# Hi there, I'm Mohammed <span style="color:#3b82f6">Farhan</span> 👋
 
 ### SOFTWARE ENGINEER &nbsp;•&nbsp; FULL STACK DEVELOPER
 
