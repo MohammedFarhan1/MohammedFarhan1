@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/generated/banner(3).svg" width="850" alt="Galaxy Header"/>
+  <img src="./assets/generated/github-banner.svg" width="850" alt="Galaxy Header"/>
 </div>
 
 <br/>
